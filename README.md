@@ -30,7 +30,6 @@ method is via pip, using ``venv``.
 
 ```commandline
 python3 -m pip install virtualenv
-python3 -m virtualenv --version
 ```
 
 **Step 1 - Make a venv and install GL-DevOps-ProCamp-Entry-Task-Metrics package**
