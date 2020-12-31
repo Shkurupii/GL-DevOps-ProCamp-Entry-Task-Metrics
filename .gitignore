@@ -2,3 +2,6 @@
 **/__pycache__/
 .idea/
 Vagrantfile
+venv/
+*.egg-info/
+**.pyc
