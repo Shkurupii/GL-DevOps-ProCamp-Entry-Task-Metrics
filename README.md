@@ -39,7 +39,8 @@ python3 -m virtualenv --version
 
 ```commandline
 cd GL-DevOps-ProCamp-Entry-Task-Metrics
-python3 -m virtualenv venv
+python3 -m venv venv
+source venv/bin/activate
 python3 -m pip install .
 ```
 
