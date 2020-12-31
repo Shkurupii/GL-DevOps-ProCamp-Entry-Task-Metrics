@@ -45,7 +45,7 @@ python3 -m pip install .
 
 ## Install GL-DevOps-ProCamp-Entry-Task-Metrics Locally with Docker (BETA)
 
-**Disk and Network metrics may differ from at the moment. Work in progress!**
+**Expected Disk and Network metrics outcome may differ at the moment. Work in progress!**
 
 ### Requirements
 * docker
@@ -81,7 +81,7 @@ GL-DevOps-ProCamp-Entry-Task-Metrics network
 
 **Commands are executed either from root or with root privileges**
 
-**Disk and Network metrics may differ from at the moment. Work in progress!**
+**Expected Disk and Network metrics outcome may differ at the moment. Work in progress!**
 
 ```commandline
 docker run --rm -v /:/host:ro gl-devops-procamp-entry-task-metrics disk
