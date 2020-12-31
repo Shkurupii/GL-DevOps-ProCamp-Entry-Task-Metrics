@@ -63,6 +63,7 @@ python3 -m pip install .
 **Step 1 - Build image**
 
 ```commandline
+cd GL-DevOps-ProCamp-Entry-Task-Metrics
 docker build -t gl-devops-procamp-entry-task-metrics:latest -t gl-devops-procamp-entry-task-metrics:0.0.1 .
 ```
 
